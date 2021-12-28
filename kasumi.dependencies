@@ -1,0 +1,12 @@
+[
+  {
+    "repository": "Yukina-Supremacy/android_vendor_xiaomi_garden",
+    "target_path": "vendor/xiaomi/garden",
+    "branch": "eleven"
+  },
+  {
+    "repository": "kbt69/android_external_libaptX",
+    "target_path": "external/libaptx",
+    "branch": "main"
+  }
+]
